@@ -412,16 +412,19 @@ Janet L. Kolodner,math,undirected
 Janet L. Kolodner,computer science,undirected
 Susan A. Yoon,Biology,undirected
 Susan A. Yoon,Education,undirected
-Susan A. Yoon,Science,undirected
-Susan A. Yoon,Technology Education,undirected
 Susan A. Yoon,Science Education,undirected
+Susan A. Yoon,Science Education,undirected
+Susan A. Yoon,Science and Technology Education,undirected
+Susan A. Yoon,Technology,undirected
 Jan van Aalst,Physics,undirected
-Jan van Aalst,Education,undirected
+Jan van Aalst,Physics,undirected
+Jan van Aalst,Math and Science Education,undirected
 Jan van Aalst,Science Education,undirected
-Iris Tabak,Learning Sciences,undirected
-Iris Tabak,Computer Engineering,undirected
+Iris Tabak,Applied Science,undirected
+Iris Tabak,Science,undirected
 Josh Radinsky,Comparative History,undirected
 Josh Radinsky,Learning Sciences,undirected
+Josh Radinsk,Curriculum and Instruction,undirected
 Leema Berland,Learning Sciences,undirected
 Leema Berland,Computer Science,undirected
 Leema Berland,Educational Studies,undirected
@@ -792,18 +795,6 @@ Daniel C. Edelson,Education,undirected
 Daniel C. Edelson,The learning sciences,undirected
 Janet L. Kolodner,math,undirected
 Janet L. Kolodner,computer science,undirected
-Susan A. Yoon,Biology,undirected
-Susan A. Yoon,Education,undirected
-Susan A. Yoon,Science,undirected
-Susan A. Yoon,Technology Education,undirected
-Susan A. Yoon,Science Education,undirected
-Jan van Aalst,Physics,undirected
-Jan van Aalst,Education,undirected
-Jan van Aalst,Science Education,undirected
-Iris Tabak,Learning Sciences,undirected
-Iris Tabak,Computer Engineering,undirected
-Josh Radinsky,Comparative History,undirected
-Josh Radinsky,Learning Sciences,undirected
 Leema Berland,Learning Sciences,undirected
 Leema Berland,Computer Science,undirected
 Leema Berland,Educational Studies,undirected
@@ -1600,11 +1591,6 @@ Roy Pea,Philosophy and Psychology,Undirected
 Roy Pea,Learning Sciences,Undirected
 Roy Pea,Education,Undirected
 Roy Pea,Computer Science,Undirected
-Susan A. Yoon,Biology,Undirected
-Susan A. Yoon,Education,Undirected
-Susan A. Yoon,Science Education,Undirected
-Susan A. Yoon,Science Education,Undirected
-Susan A. Yoon,Learning Sciences,Undirected
 Vu Minh Chieu,Education Technology,Undirected
 Vu Minh Chieu,Learning Sciences ,Undirected
 Patricio Herbst,Mathematics,Undirected
@@ -1913,18 +1899,6 @@ Daniel C. Edelson,Education,undirected
 Daniel C. Edelson,The learning sciences,undirected
 Janet L. Kolodner,math,undirected
 Janet L. Kolodner,computer science,undirected
-Susan A. Yoon,Biology,undirected
-Susan A. Yoon,Education,undirected
-Susan A. Yoon,Science,undirected
-Susan A. Yoon,Technology Education,undirected
-Susan A. Yoon,Science Education,undirected
-Jan van Aalst,Physics,undirected
-Jan van Aalst,Education,undirected
-Jan van Aalst,Science Education,undirected
-Iris Tabak,Learning Sciences,undirected
-Iris Tabak,Computer Engineering,undirected
-Josh Radinsky,Comparative History,undirected
-Josh Radinsky,Learning Sciences,undirected
 Leema Berland,Learning Sciences,undirected
 Leema Berland,Computer Science,undirected
 Leema Berland,Educational Studies,undirected
@@ -3155,18 +3129,6 @@ Daniel C. Edelson,Education,undirected
 Daniel C. Edelson,The learning sciences,undirected
 Janet L. Kolodner,math,undirected
 Janet L. Kolodner,computer science,undirected
-Susan A. Yoon,Biology,undirected
-Susan A. Yoon,Education,undirected
-Susan A. Yoon,Science,undirected
-Susan A. Yoon,Technology Education,undirected
-Susan A. Yoon,Science Education,undirected
-Jan van Aalst,Physics,undirected
-Jan van Aalst,Education,undirected
-Jan van Aalst,Science Education,undirected
-Iris Tabak,Learning Sciences,undirected
-Iris Tabak,Computer Engineering,undirected
-Josh Radinsky,Comparative History,undirected
-Josh Radinsky,Learning Sciences,undirected
 Leema Berland,Learning Sciences,undirected
 Leema Berland,Computer Science,undirected
 Leema Berland,Educational Studies,undirected
@@ -4358,18 +4320,6 @@ Daniel C. Edelson,Education,undirected
 Daniel C. Edelson,The learning sciences,undirected
 Janet L. Kolodner,math,undirected
 Janet L. Kolodner,computer science,undirected
-Susan A. Yoon,Biology,undirected
-Susan A. Yoon,Education,undirected
-Susan A. Yoon,Science,undirected
-Susan A. Yoon,Technology Education,undirected
-Susan A. Yoon,Science Education,undirected
-Jan van Aalst,Physics,undirected
-Jan van Aalst,Education,undirected
-Jan van Aalst,Science Education,undirected
-Iris Tabak,Learning Sciences,undirected
-Iris Tabak,Computer Engineering,undirected
-Josh Radinsky,Comparative History,undirected
-Josh Radinsky,Learning Sciences,undirected
 Leema Berland,Learning Sciences,undirected
 Leema Berland,Computer Science,undirected
 Leema Berland,Educational Studies,undirected
@@ -5558,18 +5508,6 @@ Daniel C. Edelson,Education,undirected
 Daniel C. Edelson,The learning sciences,undirected
 Janet L. Kolodner,math,undirected
 Janet L. Kolodner,computer science,undirected
-Susan A. Yoon,Biology,undirected
-Susan A. Yoon,Education,undirected
-Susan A. Yoon,Science,undirected
-Susan A. Yoon,Technology Education,undirected
-Susan A. Yoon,Science Education,undirected
-Jan van Aalst,Physics,undirected
-Jan van Aalst,Education,undirected
-Jan van Aalst,Science Education,undirected
-Iris Tabak,Learning Sciences,undirected
-Iris Tabak,Computer Engineering,undirected
-Josh Radinsky,Comparative History,undirected
-Josh Radinsky,Learning Sciences,undirected
 Leema Berland,Learning Sciences,undirected
 Leema Berland,Computer Science,undirected
 Leema Berland,Educational Studies,undirected
@@ -6324,8 +6262,6 @@ Janet L. Kolodner,Psychology,Undirected
 Janet L. Kolodner,Education,Undirected
 Janet L. Kolodner,Math,Undirected
 Jessica Goldstein,Psychology,Undirected
-Jan van Aalst,Education,Undirected
-Jan van Aalst,Physics,Undirected
 Jerry Andriessen,Education,Undirected
 Jerry Andriessen,Educational Technology,Undirected
 Jerry Andriessen,Computer Science,Undirected
@@ -6905,18 +6841,6 @@ Daniel C. Edelson,Education,undirected
 Daniel C. Edelson,The learning sciences,undirected
 Janet L. Kolodner,math,undirected
 Janet L. Kolodner,computer science,undirected
-Susan A. Yoon,Biology,undirected
-Susan A. Yoon,Education,undirected
-Susan A. Yoon,Science,undirected
-Susan A. Yoon,Technology Education,undirected
-Susan A. Yoon,Science Education,undirected
-Jan van Aalst,Physics,undirected
-Jan van Aalst,Education,undirected
-Jan van Aalst,Science Education,undirected
-Iris Tabak,Learning Sciences,undirected
-Iris Tabak,Computer Engineering,undirected
-Josh Radinsky,Comparative History,undirected
-Josh Radinsky,Learning Sciences,undirected
 Leema Berland,Learning Sciences,undirected
 Leema Berland,Computer Science,undirected
 Leema Berland,Educational Studies,undirected
@@ -7636,15 +7560,9 @@ Jim Hewitt,信息与通信工程技术,Undirected
 Michael Eisenberg,临床医学,Undirected
 Michael Eisenberg,生物学,Undirected
 Michael Eisenberg,计算机科学与技术,Undirected
-Josh Radinsky,Comparative History,Undirected
-Josh Radinsky,Learning Sciences,Undirected
-Josh Radinsky,Curriculum  Instruction,Undirected
-Iris Tabak,Computer Engineering,Undirected
-Iris Tabak,Learning Technology Instruction,Undirected
 Susan Yoon,Biology,Undirected
 Susan Yoon,Education,Undirected
 Susan Yoon,Science Educatio,Undirected
-Jan van Aalst,教育技术,Undirected
 Michelene T. H. Ch,the Science of Teaching & Learning,Undirected
 David L. Yaghmourian,Science,Undirected
 David L. Yaghmourian,Sociology,Undirected
@@ -8069,15 +7987,9 @@ Peta Wyeth,Computer Science,Undirected
 Judit N. Moschkovich,Math,Undirected
 Judit N. Moschkovich,Education,Undirected
 Michael Eisenberg,Information,Undirected
-Josh Radinsky,Comparative History,Undirected
-Josh Radinsky,Learning Sciences,Undirected
-Josh Radinsky,Curriculum  Instruction,Undirected
-Iris Tabak,Computer Engineering,Undirected
-Iris Tabak,Learning Technology Instruction,Undirected
 Susan Yoon,Biology,Undirected
 Susan Yoon,Education,Undirected
 Susan Yoon,Science Educatio,Undirected
-Jan van Aalst,教育技术,Undirected
 Michelene T. H. Ch,the Science of Teaching & Learning,Undirected
 David L. Yaghmourian,Science,Undirected
 David L. Yaghmourian,Sociology,Undirected
@@ -8194,15 +8106,9 @@ Kevin A. Gluck,The learning sciences,undirected
 Daniel C. Edelson,Computer Science,undirected
 Daniel C. Edelson,Education,undirected
 Daniel C. Edelson,The learning sciences,undirected
-Josh Radinsky,Comparative History,Undirected
-Josh Radinsky,Learning Sciences,Undirected
-Josh Radinsky,Curriculum  Instruction,Undirected
-Iris Tabak,Computer Engineering,Undirected
-Iris Tabak,Learning Technology Instruction,Undirected
 Susan Yoon,Biology,Undirected
 Susan Yoon,Education,Undirected
 Susan Yoon,Science Educatio,Undirected
-Jan van Aalst,教育技术,Undirected
 Michelene T. H. Ch,the Science of Teaching & Learning,Undirected
 David L. Yaghmourian,Science,Undirected
 David L. Yaghmourian,Sociology,Undirected
@@ -8272,18 +8178,6 @@ Maxine McKinney de Royston,Mathematics Education,Undirected
 Maxine McKinney de Royston,Curriculum and Instruction,Undirected
 Janet L. Kolodner,math,undirected
 Janet L. Kolodner,computer science,undirected
-Susan A. Yoon,Biology,undirected
-Susan A. Yoon,Education,undirected
-Susan A. Yoon,Science,undirected
-Susan A. Yoon,Technology Education,undirected
-Susan A. Yoon,Science Education,undirected
-Jan van Aalst,Physics,undirected
-Jan van Aalst,Education,undirected
-Jan van Aalst,Science Education,undirected
-Iris Tabak,Learning Sciences,undirected
-Iris Tabak,Computer Engineering,undirected
-Josh Radinsky,Comparative History,undirected
-Josh Radinsky,Learning Sciences,undirected
 Leema Berland,Learning Sciences,undirected
 Leema Berland,Computer Science,undirected
 Leema Berland,Educational Studies,undirected
@@ -9197,8 +9091,6 @@ Janet L. Kolodner,Psychology,Undirected
 Janet L. Kolodner,Education,Undirected
 Janet L. Kolodner,Math,Undirected
 Jessica Goldstein,Psychology,Undirected
-Jan van Aalst,Education,Undirected
-Jan van Aalst,Physics,Undirected
 Jerry Andriessen,Education,Undirected
 Jerry Andriessen,Educational Technology,Undirected
 Jerry Andriessen,Computer Science,Undirected
@@ -9436,8 +9328,6 @@ Naomi Miyake,教育,undirected
 Naomi Miyake,心理学,undirected
 Brian J. Reiser,心理学,undirected
 Brian J. Reiser,认知科学,undirected
-Iris Tabak,计算机工程,undirected
-Iris Tabak,学习科学,undirected
 Chris Quintana,生物科学,undirected
 Chris Quintana,计算机科学与工程,undirected
 Bruce Sherin,物理,undirected
